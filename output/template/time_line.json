@@ -1,0 +1,32 @@
+[
+    {
+        "time": "09:00",
+        "event": "Wakes up",
+        "sheet": null
+    },
+    {
+        "time": "10:00",
+        "event": "Eats breakfast",
+        "sheet": "Valid Paths"
+    },
+    {
+        "time": "10:45",
+        "event": "Goes for a run",
+        "sheet": null
+    },
+    {
+        "time": "13:00",
+        "event": "Watches TV",
+        "sheet": null
+    },
+    {
+        "time": "16:00",
+        "event": "Eats some sweets",
+        "sheet": "Example Scenario"
+    },
+    {
+        "time": "21:00",
+        "event": "Goes to bed",
+        "sheet": null
+    }
+]

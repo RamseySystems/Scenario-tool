@@ -1,0 +1,37 @@
+{
+    "person_demographics": {
+        "person_name": {
+            "person_first_name": [
+                "Adam",
+                "James"
+            ],
+            "person_family_name": [
+                "Greenland"
+            ],
+            "person_preferred_name": "Adam",
+            "title": "Mr",
+            "person_name_suffix": [
+                "PhD"
+            ],
+            "person_full_name": "Adam Greenland"
+        },
+        "date_of_birth": "19690415",
+        "gender": "1 | Male |",
+        "sex": "1 | Male |",
+        "nhs_number": "123 456 9999",
+        "nhs_number_status_indicator": "01"
+    },
+    "problem_list": {
+        "problem_list_record_entry": [
+            {
+                "problem": {
+                    "coded_value": "46635009 | Diabetes mellitus type 1 (disorder) |"
+                },
+                "onset_date": "20000101",
+                "problem_status": {
+                    "coded_value": "394774009 | Active problem (qualifier value) |"
+                }
+            }
+        ]
+    }
+}
